@@ -1,0 +1,7 @@
+Docker Compose can:
+
+Start and stop multiple containers in sequence.
+Connect containers using a virtual network.
+Handle persistence of data using Docker Volumes.
+Set environment variables.
+Build or download container images as required.
